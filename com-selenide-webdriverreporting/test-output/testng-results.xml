@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2015-07-01T07:27:40Z" finished-at="2015-07-01T07:27:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2015-07-01T07:27:40Z" finished-at="2015-07-01T07:27:40Z">
+      <class name="com.sample.extentreports.example.ReportingTest">
+        <test-method status="PASS" signature="beforeClass()" name="beforeClass" is-config="true" duration-ms="39" started-at="2015-07-01T07:27:40Z" finished-at="2015-07-01T07:27:40Z">
+        </test-method>
+        <test-method status="PASS" signature="test()" name="test" duration-ms="15" started-at="2015-07-01T07:27:40Z" finished-at="2015-07-01T07:27:40Z">
+        </test-method>
+        <test-method status="PASS" signature="afterSuite()" name="afterSuite" is-config="true" duration-ms="10" started-at="2015-07-01T07:27:40Z" finished-at="2015-07-01T07:27:40Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
